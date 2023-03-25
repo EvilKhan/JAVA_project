@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
-
 // Вывести все простые числа от 1 до 1000
 public class homework1_2 {
   public static void main(String[] args) {
@@ -15,5 +12,5 @@ public class homework1_2 {
             System.out.printf("%d,", nums);
 
     }
-}
+  }
 }
