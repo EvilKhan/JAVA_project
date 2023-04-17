@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class homework2_1 {
   public static void main(String[] args) {
     StringBuilder sb = new StringBuilder();
-    int[] arr = {5, 7, -1, 0, 11, 18, 8, 3, 9, 2};
+    int[] arr = {4, 7, -3, 0, 1, 8, 28, 13, 49, 21};
     int temp;
     int n = arr.length;
     for (int i = 0; i < n; i++) {
